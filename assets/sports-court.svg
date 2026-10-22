@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1024" role="img" aria-label="Pickleball court lines within a padel court, top view">
+<metadata>Vector diagram drawn to scale from standard dimensions: padel court 20 x 10 m; pickleball court 13.41 x 6.10 m, non-volley zone 2.13 m. Conceptual layout, not a client project</metadata>
+<rect width="1536" height="1024" fill="#f5f1e9"/>
+<rect x="128" y="182" width="1280" height="660" rx="26" fill="#e5eeea"/>
+<!-- padel court 20x10 m at 60px/m -->
+<g fill="none" stroke="#9fb6ad" stroke-width="5">
+<rect x="168" y="212" width="1200" height="600" fill="#cfdcd5"/>
+<line x1="768" y1="212" x2="768" y2="812" stroke="#173b42" stroke-width="9"/>
+<line x1="351" y1="212" x2="351" y2="812"/><line x1="1185" y1="212" x2="1185" y2="812"/>
+<line x1="351" y1="512" x2="1185" y2="512"/>
+</g>
+<!-- pickleball court 13.41x6.10 m -->
+<g fill="none" stroke="#b39872" stroke-width="8">
+<rect x="365.7" y="329" width="804.6" height="366"/>
+<line x1="640.2" y1="329" x2="640.2" y2="695"/><line x1="895.8" y1="329" x2="895.8" y2="695"/>
+<line x1="365.7" y1="512" x2="640.2" y2="512"/><line x1="895.8" y1="512" x2="1170.3" y2="512"/>
+</g>
+<rect x="640.2" y="329" width="255.6" height="366" fill="#b39872" opacity=".16"/>
+<circle cx="560" cy="430" r="16" fill="#173b42"/><circle cx="560" cy="430" r="5" fill="#f5f1e9"/>
+</svg>
